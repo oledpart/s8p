@@ -1,0 +1,35 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Oled Parts"
+theme = "slate"
+
+publishDir = "docs"
+
+[ params ]
+Favicon = "favicon.ico"
+OpenLinksInNewWindow = true
+
+[[ params.nav ]]
+name = "Best Quality"
+tag = "best"
+icon = "star"
+
+[[ params.nav ]]
+name = "Low Cost"
+tag = "cheapest"
+icon = "money"
+
+[[ params.nav ]]
+name = "Fast Shipping"
+tag = "fastest"
+icon = "calendar"
+
+[[ params.nav ]]
+name = "Amazon Prime"
+tag = "prime"
+icon = "amazon"
+
+[[ params.nav ]]
+name = "Has Warranty"
+tag = "warranty"
+icon = "wrench"

@@ -1,0 +1,65 @@
+tiles:
+-
+  name: "Ebay - "
+  url: "https://bing.com"
+  img: "logos/ebay.svg"
+  tags: ["best"]
+-
+  name: "Amazon - "
+  url: "https://amazon.com"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["best"]
+-
+  name: "Ebay - "
+  url: "https://bing.com"
+  img: "logos/ebay.svg"
+  tags: ["warranty"]
+-
+  name: "Amazon - "
+  url: "https://amazon.com"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["warranty"]
+-
+  name: "Ebay - "
+  url: "https://bing.com"
+  img: "logos/ebay.svg"
+  tags: ["cheapest"]
+-
+  name: "Amazon $305"
+  url: "http://amzn.to/2yibXaG"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["cheapest", "prime"]
+  # <a href="https://www.amazon.com/Digitizer-Assembly-Mr-Repair-Parts/dp/B073LZYJRK/ref=as_li_ss_il?rps=1&ie=UTF8&qid=1505703187&sr=8-17&keywords=s8+plus+lcd&refinements=p_85:2470955011&linkCode=li2&tag=oledphonepart-20&linkId=552dbcb739119d671256c5b6d8fcd31c" target="_blank">
+  # <img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073LZYJRK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=oledphonepart-20" >
+  # </a>
+  # <img src="https://ir-na.amazon-adsystem.com/e/ir?t=oledphonepart-20&l=li2&o=1&a=B073LZYJRK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+-
+  name: "Ebay - "
+  url: "https://bing.com"
+  img: "logos/ebay.svg"
+  tags: ["prime"]
+-
+  name: "Amazon - "
+  url: "https://amazon.com"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["prime"]
+-
+  name: "Ebay - "
+  url: "https://bing.com"
+  img: "logos/ebay.svg"
+  tags: ["fastest"]
+-
+  name: "Amazon - "
+  url: "https://amazon.com"
+  img: "logos/amazon.svg"
+  bg_color: "#ffffff"
+  txt_color: "#ff9900"
+  tags: ["fastest"]
